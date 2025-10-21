@@ -1,2 +1,4 @@
 Este es el fichero de notas
 Aquí añado otras cosas que me interesan.
+
+esta otra línea es correcta y me interesa que se quede en el fichero permanentemente
