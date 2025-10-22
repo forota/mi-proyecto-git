@@ -1,0 +1,1 @@
+este fichero es una prueba de rebase vs merge con squash
