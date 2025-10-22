@@ -1,1 +1,3 @@
 este fichero es una prueba de rebase vs merge con squash
+
+ahora añado una nueva linea para otro commit
